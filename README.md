@@ -2,7 +2,7 @@
 
 Este projeto é um sistema simples de login, desenvolvido com HTML, CSS, JavaScript e Bootstrap. Ele inclui validação de formulário e exibe um modal de sucesso quando o login é realizado corretamente.
 
-###[ClQUE AQUI PARA VIZUALIZAR O DEPLOY DO PROJETO](https://screen-login-25be.vercel.app_
+###[ClQUE AQUI PARA VIZUALIZAR O DEPLOY DO PROJETO](https://screen-login-25be.vercel.app_)
 
 ## Pré-requisitos
 
